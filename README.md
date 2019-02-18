@@ -34,7 +34,7 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
   * [Release Keys](#release-keys)
 * [Contributing to Node.js](#contributing-to-nodejs)
 
-## Support
+## Support {#support}
 
 Node.js contributors have limited availability to address general support
 questions. Please make sure you are using a [currently-supported version of
